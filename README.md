@@ -1,6 +1,6 @@
 # bachelor's thesis
 
-> try to make it fast, try to make it sharp, try to make it clean
+> make it fast, make it sharp, make it clean
 
 |||
 |-|-|
